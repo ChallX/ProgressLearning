@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&family=Cabin:ital,wght@0,400;0,700;1,400&family=Libre+Baskerville&display=swap');
+
+*{
+    background-color:black;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.meme{
+    margin-left:25%;
+    width:50%;
+    margin-top:8%;
+    text-align:center;
+}
+
+img{
+    width: 100%;
+    border: 5px solid white;
+}
+
+
